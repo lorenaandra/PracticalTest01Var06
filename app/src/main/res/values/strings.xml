@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTest01Var06MainActivity</string>
+    <string name="hold">hold</string>
+    <string name="play">Play</string>
+</resources>
